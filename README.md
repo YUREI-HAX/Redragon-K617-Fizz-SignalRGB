@@ -1,4 +1,3 @@
-[README_Redragon_K617_Fizz.md](https://github.com/user-attachments/files/34765260/README_Redragon_K617_Fizz.md)
 # Redragon K617 Fizz – SignalRGB Plugin
 
 A custom **SignalRGB per-key RGB Plugin** for the Redragon K617 Fizz keyboard.
